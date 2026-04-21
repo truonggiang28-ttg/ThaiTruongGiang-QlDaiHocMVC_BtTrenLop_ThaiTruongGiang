@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "E:\\C#\\ThaiTruongGiang-QlDaiHocMVC_BtTrenLop_ThaiTruongGiang\\QuanLyDaoTao\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{30CD4BB1-B5E6-1769-B580-C23F85093625}|QuanLyDaoTao\\QuanLyDaoTao.csproj|e:\\c#\\thaitruonggiang-qldaihocmvc_bttrenlop_thaitruonggiang\\quanlydaotao\\quanlydaotao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30CD4BB1-B5E6-1769-B580-C23F85093625}|QuanLyDaoTao\\QuanLyDaoTao.csproj|solutionrelative:quanlydaotao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30CD4BB1-B5E6-1769-B580-C23F85093625}|QuanLyDaoTao\\QuanLyDaoTao.csproj|e:\\c#\\thaitruonggiang-qldaihocmvc_bttrenlop_thaitruonggiang\\quanlydaotao\\quanlydaotao\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{30CD4BB1-B5E6-1769-B580-C23F85093625}|QuanLyDaoTao\\QuanLyDaoTao.csproj|solutionrelative:quanlydaotao\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{30CD4BB1-B5E6-1769-B580-C23F85093625}|QuanLyDaoTao\\QuanLyDaoTao.csproj|e:\\c#\\thaitruonggiang-qldaihocmvc_bttrenlop_thaitruonggiang\\quanlydaotao\\quanlydaotao\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{30CD4BB1-B5E6-1769-B580-C23F85093625}|QuanLyDaoTao\\QuanLyDaoTao.csproj|solutionrelative:quanlydaotao\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -43,6 +51,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\C#\\ThaiTruongGiang-QlDaiHocMVC_BtTrenLop_ThaiTruongGiang\\QuanLyDaoTao\\QuanLyDaoTao\\Program.cs",
+              "RelativeDocumentMoniker": "QuanLyDaoTao\\Program.cs",
+              "ToolTip": "E:\\C#\\ThaiTruongGiang-QlDaiHocMVC_BtTrenLop_ThaiTruongGiang\\QuanLyDaoTao\\QuanLyDaoTao\\Program.cs",
+              "RelativeToolTip": "QuanLyDaoTao\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T13:35:54.005Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\C#\\ThaiTruongGiang-QlDaiHocMVC_BtTrenLop_ThaiTruongGiang\\QuanLyDaoTao\\QuanLyDaoTao\\appsettings.json",
+              "RelativeDocumentMoniker": "QuanLyDaoTao\\appsettings.json",
+              "ToolTip": "E:\\C#\\ThaiTruongGiang-QlDaiHocMVC_BtTrenLop_ThaiTruongGiang\\QuanLyDaoTao\\QuanLyDaoTao\\appsettings.json",
+              "RelativeToolTip": "QuanLyDaoTao\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-21T13:34:20.95Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "E:\\C#\\ThaiTruongGiang-QlDaiHocMVC_BtTrenLop_ThaiTruongGiang\\QuanLyDaoTao\\QuanLyDaoTao\\Data\\AppDbContext.cs",
               "RelativeDocumentMoniker": "QuanLyDaoTao\\Data\\AppDbContext.cs",
@@ -55,7 +89,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "DangKy.cs",
               "DocumentMoniker": "E:\\C#\\ThaiTruongGiang-QlDaiHocMVC_BtTrenLop_ThaiTruongGiang\\QuanLyDaoTao\\QuanLyDaoTao\\Models\\DangKy.cs",
               "RelativeDocumentMoniker": "QuanLyDaoTao\\Models\\DangKy.cs",
@@ -63,12 +97,11 @@
               "RelativeToolTip": "QuanLyDaoTao\\Models\\DangKy.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-21T13:30:41.295Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-21T13:30:41.295Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "LopHocPhan.cs",
               "DocumentMoniker": "E:\\C#\\ThaiTruongGiang-QlDaiHocMVC_BtTrenLop_ThaiTruongGiang\\QuanLyDaoTao\\QuanLyDaoTao\\Models\\LopHocPhan.cs",
               "RelativeDocumentMoniker": "QuanLyDaoTao\\Models\\LopHocPhan.cs",
@@ -80,7 +113,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "SinhVien.cs",
               "DocumentMoniker": "E:\\C#\\ThaiTruongGiang-QlDaiHocMVC_BtTrenLop_ThaiTruongGiang\\QuanLyDaoTao\\QuanLyDaoTao\\Models\\SinhVien.cs",
               "RelativeDocumentMoniker": "QuanLyDaoTao\\Models\\SinhVien.cs",
@@ -92,7 +125,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "GiangVien.cs",
               "DocumentMoniker": "E:\\C#\\ThaiTruongGiang-QlDaiHocMVC_BtTrenLop_ThaiTruongGiang\\QuanLyDaoTao\\QuanLyDaoTao\\Models\\GiangVien.cs",
               "RelativeDocumentMoniker": "QuanLyDaoTao\\Models\\GiangVien.cs",
@@ -104,7 +137,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "KhoaHoc.cs",
               "DocumentMoniker": "E:\\C#\\ThaiTruongGiang-QlDaiHocMVC_BtTrenLop_ThaiTruongGiang\\QuanLyDaoTao\\QuanLyDaoTao\\Models\\KhoaHoc.cs",
               "RelativeDocumentMoniker": "QuanLyDaoTao\\Models\\KhoaHoc.cs",
